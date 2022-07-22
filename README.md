@@ -11,8 +11,8 @@
 
 ### You can find me out.
 <a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://instagram.com/radenrishwan"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raden-mohamad-rishwan-1b1476213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 ### Language and Tools
