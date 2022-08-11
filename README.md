@@ -9,6 +9,7 @@
 - I love writing with Go-lang
 - I love to learn new technology and building fun project
 - My old [github account](https://github.com/seior)
+- Personal Blog [Here](blog.mohamadrishwan.me)
 
 ### You can find me out.
 <a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
