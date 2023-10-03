@@ -27,4 +27,4 @@
 <!-- stats -->
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=radenrishwan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radenrishwan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radenrishwan&theme=dracula&count_private=false&hide=cmake,php)](https://github.com/anuraghazra/github-readme-stats)
