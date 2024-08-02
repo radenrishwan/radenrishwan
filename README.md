@@ -9,7 +9,7 @@
 - I love writing with Go-lang
 - I love to learn new technology and building fun project
 - My old [github account](https://github.com/seior)
-- Personal Blog [Here](https://blog.mohamadrishwan.me)
+- Personal Blog [Here](https://mohamadrishwan.com)
 
 ### You can find me out.
 <a href="https://github.com/radenrishwan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
@@ -23,8 +23,3 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-
-<!-- stats -->
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=radenrishwan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radenrishwan&theme=dracula&count_private=false&hide=cmake,php)](https://github.com/anuraghazra/github-readme-stats)
