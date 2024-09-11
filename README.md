@@ -5,7 +5,7 @@
 ---
 
 ### About me
-- Student at Unsika
+- Currently learning rust & vlang (sometimes gleam)
 - I love writing with Go-lang
 - I love to learn new technology and building fun project
 - My old [github account](https://github.com/seior)
